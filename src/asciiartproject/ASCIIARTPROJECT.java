@@ -16,13 +16,13 @@ public class ASCIIARTPROJECT {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       // start making flag pole
+     // start making flag pole
         System.out.println("======:========;()");
         System.out.println("      ######::::");
         System.out.println("      ######::::");
         System.out.println("      ######::::");
         System.out.println("      ######::::");
-        // stop putting stars
+     // stop putting stars
         System.out.println("      ##########");
         System.out.println("      ##########");
         System.out.println("      ##########");
